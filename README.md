@@ -1,6 +1,5 @@
 # **Clear-Green-Web-Website-**
 
-## https://clearandgreen.000webhostapp.com/index.php
 
 ### Tech used: HTML/CSS/Boostrap/JavaScript/PHP/MySQL
 
