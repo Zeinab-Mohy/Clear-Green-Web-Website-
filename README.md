@@ -1,7 +1,7 @@
 # **Clear-Green-Web-Website-**
 
 
-### Tech used: HTML/CSS/Boostrap/JavaScript/PHP/MySQL
+### Tech used: HTML 5/CSS 3/Boostrap/JavaScript/PHP/MySQL
 
 >Some Details About The Project
 >
