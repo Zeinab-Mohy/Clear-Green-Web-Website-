@@ -1,4 +1,4 @@
-# **Clear-Green-Web-Website-**
+# **Clear-Green-Website-**
 
 
 ### Tech used: HTML 5/CSS 3/Boostrap/JavaScript/PHP/MySQL
